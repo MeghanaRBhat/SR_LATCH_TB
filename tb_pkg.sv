@@ -13,7 +13,7 @@ package tb_pkg;
  `include "sr_scoreboard.sv"           // scorebaord class
  `include "env.sv"                  // environment class
 
- `include "test.sv"                   // test1
+ `include "sr_test.sv"                   // test1
  //`include "test2.sv"
  //`include "test3.sv"
 
