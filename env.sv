@@ -1,4 +1,4 @@
-class sr_env extends uvm_env; 
+class env extends uvm_env; 
 
  
 
