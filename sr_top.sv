@@ -2,7 +2,7 @@
 
 `include "tb_pkg.sv" 
 
-module top; 
+module sr_top; 
 
   import uvm_pkg::*; 
 
