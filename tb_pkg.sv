@@ -11,7 +11,7 @@ package tb_pkg;
  `include "sr_agent.sv"                // agent class  
  `include "sr_coverage.sv"             // coverage class
  `include "sr_scoreboard.sv"           // scorebaord class
- `include "env.sv"                  // environment class
+ `include "sr_env.sv"                  // environment class
 
  `include "sr_test.sv"                   // test1
  //`include "test2.sv"

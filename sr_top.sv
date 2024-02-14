@@ -1,7 +1,7 @@
 `include "interface.sv" 
 
 `include "tb_pkg.sv" 
-
+`include "sr.sv"
 module sr_top; 
 
   import uvm_pkg::*; 
